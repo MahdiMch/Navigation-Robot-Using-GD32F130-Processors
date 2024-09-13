@@ -1,0 +1,8 @@
+prefix=/home/mahdi/ros_workspace/install
+
+Name: hugs_control
+Description: Description of hugs_control
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lhugs_control
+Requires: roscpp serial std_msgs geometry_msgs message_runtime

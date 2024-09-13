@@ -1,0 +1,2 @@
+hugs_control
+-DCATKIN_DEVEL_PREFIX=/home/mahdi/ros_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/mahdi/ros_workspace/install -G Unix Makefiles
